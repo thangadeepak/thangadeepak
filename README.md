@@ -1,17 +1,31 @@
-## Hi there 👋
+🚀 Premium Hero Banner
 
-<!--
-**thangadeepak/thangadeepak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⌨️ Animated Typing SVG
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💜 Modern Buttons
 
+🛠 Tech Stack Icons
+
+📊 GitHub Stats
+
+🔥 GitHub Streak
+
+📈 Activity Graph
+
+🏆 GitHub Trophy
+
+🐍 Contribution Snake
+
+📂 Featured Projects
+
+🎯 Current Focus
+
+📜 Certifications
+
+💡 Fun Facts
+
+📫 Contact
+
+⚡ Footer
