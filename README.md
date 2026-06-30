@@ -28,15 +28,15 @@ Building modern, responsive and scalable web applications.
 
 ### 🚀 Quick Access
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/thangadeepaktab=repositories">
 <img src="https://img.shields.io/badge/💼_View_My_Projects-8B5CF6?style=for-the-badge&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
+<a href="">
 <img src="https://img.shields.io/badge/📄_Download_Resume-5B21B6?style=for-the-badge&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:thangadeepakdeepak05@gmail.com">
 <img src="https://img.shields.io/badge/📧_Contact_Me-FACC15?style=for-the-badge&logoColor=black"/>
 </a>
 
@@ -48,11 +48,11 @@ Building modern, responsive and scalable web applications.
 
 ### 🌐 Connect With Me
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/thangadeepak">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/thangadeepak-developer/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -60,7 +60,7 @@ Building modern, responsive and scalable web applications.
 <img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:thangadeepakdeepak05@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
