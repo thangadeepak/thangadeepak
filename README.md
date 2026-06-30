@@ -1,23 +1,10 @@
-# Project Name 🚀
-
-A short, punchy description of what this project does and who it is for.
-
-## Features
-- ✨ Feature 1
-- ⚡ Feature 2
-- 🛠️ Feature 3
-
-## Tech Stack
-- **Frontend:** React, JavaScript, CSS
-- **Tools:** Vite, Git, VS Code
-
-## Installation
-1. Clone the repo: `git clone [url]`
-2. Install dependencies: `npm install`
-3. Run: `npm run dev`
-
-## Demo
-![Project Preview](path/to/demo.gif)
-
-## Contact
-Deepak - [Your Portfolio/LinkedIn Link]
+<!-- ═══════════════════════════════════════════════════════════════════ --> <!--                  SHANMATHI | GITHUB PROFILE README                  --> <!-- ═══════════════════════════════════════════════════════════════════ --> <!-- ─────────────── HERO SECTION ─────────────── --> <table width="100%" border="0" cellpadding="0" cellspacing="0"> <tr> <td width="55%" valign="middle"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=38&duration=3500&pause=1200&color=A78BFA&center=false&vCenter=true&width=520&lines=Hi+👋,+I'm+Shanmathi!;I'm+Shanmathi!" alt="Name" /> <h2>Full Stack Developer &nbsp;<b>(MERN)</b></h2> <p> Passionate Full Stack Developer specializing in the MERN stack.<br/> I build modern, responsive and scalable web applications<br/> that provide great user experiences. </p> <br/> <img src="https://img.shields.io/badge/%3C%2F%3E%20Clean%20Code-1c1f2b?style=flat-square&logoColor=white" alt="Clean Code"/> &nbsp; <img src="https://img.shields.io/badge/🚀%20Performance-1c1f2b?style=flat-square" alt="Performance"/> &nbsp; <img src="https://img.shields.io/badge/💡%20Problem%20Solver-1c1f2b?style=flat-square" alt="Problem Solver"/> &nbsp; <img src="https://img.shields.io/badge/🎨%20UI%2FUX%20Focused-1c1f2b?style=flat-square" alt="UI/UX Focused"/> </td> <td width="45%" align="center" valign="middle"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="Developer Coding with MERN Stack"/> </td> </tr> </table> <br/> 
+ <!-- ─────────────── THREE CARDS ROW ─────────────── --> <table width="100%" border="1" cellpadding="18" cellspacing="0"> <tr> <!-- ── CARD 1: ABOUT ME ── --> <td width="33%" valign="top"> <h3>🚀 &nbsp;About Me</h3> 
+🖥️  <b>Full Stack Developer</b> with strong knowledge in MERN stack<br/><br/> 🌿  I love building web apps that solve real-world <b>problems</b><br/><br/> 🎯  Focused on writing clean, efficient and maintainable code<br/><br/> 🤝  Always learning and exploring new technologies<br/><br/> ⚡  <b>Fun fact:</b> I turn coffee ☕ into code 💻
+ </td> <!-- ── CARD 2: TECH STACK ── --> <td width="34%" valign="top" align="center"> <h3>⚙️ &nbsp;Tech Stack (MERN)</h3> <br/> <table border="0" align="center"> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB"/><br/> <sub><b>MongoDB</b></sub> </td> <td align="center"><b>&nbsp;···→&nbsp;</b></td> <td align="center"> <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express"/><br/> <sub><b>Express.js</b></sub> </td> <td align="center"><b>&nbsp;···→&nbsp;</b></td> <td align="center"> <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React"/><br/> <sub><b>React</b></sub> </td> <td align="center"><b>&nbsp;···→&nbsp;</b></td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/><br/> <sub><b>Node.js</b></sub> </td> </tr> </table> <br/> </td> <!-- ── CARD 3: GITHUB STATS ── --> <td width="33%" valign="top" align="center"> <h3>📊 &nbsp;GitHub Stats</h3> <img src="https://github-readme-stats.vercel.app/api?username=Shanmathi0605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&count_private=true" width="100%" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanmathi0605&theme=tokyonight&hide_border=true&background=00000000&ring=a78bfa&fire=22d3ee&currStreakLabel=a78bfa" width="100%" alt="GitHub Streak"/> </td> </tr> </table> <br/> 
+ <!-- ─────────────── TOOLS + CONNECT SECTION ─────────────── --> <table width="100%" border="1" cellpadding="18" cellspacing="0"> <tr> <!-- ── TOOLS & TECHNOLOGIES ── --> <td width="65%" valign="top"> <h3>🛠️ &nbsp;Tools &amp; Technologies</h3> <br/> <table border="0"> <tr> <td align="center" width="80"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/> <sub>HTML5</sub> </td> <td align="center" width="80"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/> <sub>CSS3</sub> </td> <td align="center" width="80"> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/> <sub>JavaScript</sub> </td> <td align="center" width="80"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/><br/> <sub>Tailwind CSS</sub> </td> <td align="center" width="80"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br/> <sub>Bootstrap</sub> </td> <td align="center" width="80"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/> <sub>Git</sub> </td> <td align="center" width="80"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/> <sub>GitHub</sub> </td> <td align="center" width="80"> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br/> <sub>VS Code</sub> </td> <td align="center" width="80"> <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br/> <sub>Postman</sub> </td> <td align="center" width="80"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB Compass"/><br/> <sub>MongoDB Compass</sub> </td> </tr> </table> </td> <!-- ── CONNECT WITH ME ── --> <td width="35%" valign="top"> <h3>💬 &nbsp;Connect with Me</h3> <br/> 
+🌐  <b>Portfolio</b>   :  <a href="https://my-port-five-omega.vercel.app/">my-port-five-omega.vercel.app</a><br/><br/> 📧  <b>Email</b>       :  <a href="mailto:smily.shanvi6597@gmail.com">smily.shanvi6597@gmail.com</a><br/><br/> 💼  <b>LinkedIn</b>    :  <a href="https://www.linkedin.com/in/shanmathi2001">linkedin.com/in/shanmathi2001</a><br/><br/> 🐙  <b>GitHub</b>      :  <a href="https://github.com/Shanmathi0605">github.com/Shanmathi0605</a><br/>
+ </td> </tr> </table> <br/> 
+ <!-- ─────────────── QUOTE FOOTER BAR ─────────────── --> <div align="center"> <br/> 
+⭐  <i>"Code is like humor. When you have to explain it, it's bad."</i>   <b>– Cory House</b>
+ <br/> </div> 
