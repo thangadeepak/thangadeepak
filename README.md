@@ -310,7 +310,7 @@ const developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thangadeepak&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15&rank_icon=github"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&border_radius=15"/>
 
@@ -330,7 +330,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thangadeepak&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
@@ -340,7 +340,7 @@ const developer = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&radius=15"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thangadeepak&theme=react-dark&hide_border=true&radius=15"/>
 
 </div>
 
