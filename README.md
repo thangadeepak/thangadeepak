@@ -1,31 +1,5 @@
-🚀 Premium Hero Banner
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thangadeepak/thangadeepak/main/banner.png" width="100%" alt="Thangadeepak Banner"/>
+</p>
 
-⌨️ Animated Typing SVG
-
-👨‍💻 About Me
-
-💜 Modern Buttons
-
-🛠 Tech Stack Icons
-
-📊 GitHub Stats
-
-🔥 GitHub Streak
-
-📈 Activity Graph
-
-🏆 GitHub Trophy
-
-🐍 Contribution Snake
-
-📂 Featured Projects
-
-🎯 Current Focus
-
-📜 Certifications
-
-💡 Fun Facts
-
-📫 Contact
-
-⚡ Footer
+<br>
